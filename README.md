@@ -44,7 +44,7 @@
 
 ###
 
-<p align="left">I'm Abhay Chaudhary studing at University of Petroleum and Energy Studies<br><br>- 🔭 I’m a Btech CSE Student<br>- 📚 I'm currently learning Python<br>- ⚡ In my free time I prefer reading novels</p>
+<p align="left">I'm Abhay Chaudhary studing at University of Petroleum and Energy Studies<br><br>- 🔭 I’m a BTech CSE Student<br>- 📚 I'm currently learning Python<br>- ⚡ In my free time I prefer reading novels</p>
 
 ###
 
